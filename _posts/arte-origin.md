@@ -1,13 +1,13 @@
 ---
 title: 'NFTs are shaking up the art world: but they could change so much more'
 excerpt: 'Digital art is in a nascent stage in India but is already getting a push with the advent of the NFTs, approaching artists for unconventional branding and collaboration.'
-coverImage: '/assets/blog/arte-origin/cover.jpg'
+coverImage: '/assets/blog/arte-origin/cover.png'
 date: '2021-07-08T05:35:07.322Z'
 author:
   name: Surya Teja
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
-  url: '/assets/blog/arte-origin/cover.jpg'
+  url: '/assets/blog/arte-origin/cover.png'
 ---
 
 If Covid-19 has pushed traditional art galleries, auction houses, and museums to make a digital shift, it is also shaking up the Indian digital art scene. In the lockdown, one of the flag bearers of tech-infused art found a firmer footing in the virtual world.
